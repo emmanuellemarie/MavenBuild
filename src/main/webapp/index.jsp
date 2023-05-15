@@ -44,7 +44,7 @@
                     <p>W3.CSS is a modern CSS framework with built-in responsiveness:</p>                  
                     <ul class="w3-leftbar w3-theme-border" style="list-style:none">
                         <li>Welcome to CIVIL Edu.</li>
-                        <li>Batch 8 DevOps Project 2 - 26 Mar.</li>
+                        <li>Batch 9 10 DevOps Project 2 - 26 Mar.</li>
                         <li>by Kastro Kiran V (No jQuery or JavaScript library).</li>
                         <li>Speeds up mobile HTML apps.</li>
                         <li>Provides CSS equality for all devices. PC, laptop, tablet, and mobile:</li>
