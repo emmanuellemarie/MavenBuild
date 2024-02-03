@@ -45,6 +45,7 @@
                     <ul class="w3-leftbar w3-theme-border" style="list-style:none">
                         <li>Welcome to CIVIL Edu.</li>
                         <li>Batch 9 10 DevOps Project 2 - 26 Mar.</li>
+                         <li>next we will learn docker </li>
                         <li>Next we will learn Sonarqube and Ansible.</li>
                         <li>by Kastro Kiran V (No jQuery or JavaScript library).</li>
                         <li>Speeds up mobile HTML apps.</li>
